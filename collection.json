@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "name": "Codex Pet Collection",
+  "description": "A community-friendly collection of installable Codex pets.",
+  "pets": [
+    {
+      "id": "klee",
+      "displayName": "Klee",
+      "description": "A Codex pet inspired by Klee from Genshin Impact; hover/jumping row uses a waving loop.",
+      "path": "pets/klee",
+      "spritesheetPath": "spritesheet.webp",
+      "preview": "pets/klee/preview/contact-sheet.png",
+      "tags": [
+        "genshin",
+        "anime",
+        "custom"
+      ]
+    }
+  ]
+}

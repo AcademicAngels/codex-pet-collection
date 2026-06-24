@@ -1,0 +1,6 @@
+{
+  "id": "klee",
+  "displayName": "Klee",
+  "description": "A Codex pet inspired by Klee from Genshin Impact; hover/jumping row uses a waving loop.",
+  "spritesheetPath": "spritesheet.webp"
+}
