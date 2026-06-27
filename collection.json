@@ -28,6 +28,19 @@
         "anime",
         "custom"
       ]
+    },
+    {
+      "id": "aira-xinghui",
+      "displayName": "艾拉·星辉",
+      "description": "An original anime Codex pet: Aira Xinghui, the star-dream weaver and guardian bridging the astral realm and the human world.",
+      "path": "pets/aira-xinghui",
+      "spritesheetPath": "spritesheet.webp",
+      "preview": "pets/aira-xinghui/preview/contact-sheet.png",
+      "tags": [
+        "original",
+        "anime",
+        "custom"
+      ]
     }
   ]
 }

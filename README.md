@@ -16,6 +16,7 @@ pets/<pet-id>/
 | --- | --- | --- |
 | `klee` | Klee | Inspired by Klee from Genshin Impact. Hover uses the waving loop through Codex's jumping row. |
 | `albedo` | Albedo | Inspired by Albedo from Overlord, with black wings, ivory horns, and a white gold-trimmed dress. |
+| `aira-xinghui` | 艾拉·星辉 | Original anime star-dream weaver pet with repaired idle, running-left, jumping, waiting, and review motion. |
 
 ## Install
 
