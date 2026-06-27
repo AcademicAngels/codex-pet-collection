@@ -85,4 +85,6 @@ Every pet directory must contain a `pet.json` file and a `1536x1872` WebP sprite
 
 ## License Notes
 
+This collection is provided for personal entertainment and learning only. Commercial use, resale, redistribution for profit, paid product bundling, advertising use, or any other commercial exploitation is not permitted.
+
 Only add pets and references you have the rights to share. Character-inspired pets may involve third-party IP; keep repository visibility and reuse rules appropriate for your use case.
