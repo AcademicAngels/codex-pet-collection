@@ -15,6 +15,7 @@ pets/<pet-id>/
 | ID | Name | Notes |
 | --- | --- | --- |
 | `klee` | Klee | Inspired by Klee from Genshin Impact. Hover uses the waving loop through Codex's jumping row. |
+| `albedo` | Albedo | Inspired by Albedo from Overlord, with black wings, ivory horns, and a white gold-trimmed dress. |
 
 ## Install
 
@@ -24,14 +25,14 @@ Clone the repository, then run the installer:
 git clone https://github.com/AcademicAngels/codex-pet-collection.git
 cd codex-pet-collection
 py scripts/install.py list
-py scripts/install.py install klee --force
+py scripts/install.py install albedo --force
 ```
 
 On Windows you can also use the PowerShell wrapper:
 
 ```powershell
 .\scripts\install.ps1 list
-.\scripts\install.ps1 install klee --force
+.\scripts\install.ps1 install albedo --force
 ```
 
 The installer copies pets into:
@@ -43,7 +44,7 @@ The installer copies pets into:
 If `CODEX_HOME` is set, the installer uses that instead. You can also pass an explicit location:
 
 ```powershell
-py scripts/install.py --codex-home C:\Users\you\.codex install klee --force
+py scripts/install.py --codex-home C:\Users\you\.codex install albedo --force
 ```
 
 After installing or updating a pet, refresh the Codex pet list or restart Codex if the running app still shows cached pet data.
